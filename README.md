@@ -10,8 +10,9 @@ hello id love to introduce myself
 thanks
 ## Purpose
 
-Sample website with plenty of files for demos
+adasdasdasdasdas
 
 ##Deployment
 
+oh god i just realized someone can read this
 ## How to contribute 
