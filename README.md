@@ -16,6 +16,6 @@ adasdasdasdasdas
 
 oh god i just realized someone can read this
 ## How to contribute 
-
+please fork this repository and issue a pull for request
 ## Copyright
 This exists
