@@ -16,3 +16,6 @@ adasdasdasdasdas
 
 oh god i just realized someone can read this
 ## How to contribute 
+
+## Copyright
+This exists
