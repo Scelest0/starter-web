@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-this is a simple web site project
+this is a simple web site project. Adding a line for rebasing example. 
 
 ## Introduction
 hello id love to introduce myself 
