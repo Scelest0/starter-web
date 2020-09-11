@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-this is a simple web site project. Adding a line for rebasing example, then more changes from myfeature branch too 
+this is a simple web site project. are we? 
 
 ## Introduction
 hello id love to introduce myself 
